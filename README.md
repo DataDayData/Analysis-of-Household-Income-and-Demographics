@@ -1,1 +1,2 @@
 # Analysis-of-Household-Income-and-Demographics
+This code analyzes the relationship between household income and demographic variables, including age, education, and employment. The analysis involves data preprocessing, such as removing duplicate rows and outliers, and creating a new variable by taking the log of a column. The code also renames columns, creates scatter plots, calculates correlations, and performs linear regression models with different independent and dependent variables.
